@@ -3,7 +3,7 @@ window.addEventListener("load", () => {
   const img = document.querySelector("#img");
   const hour = new Date().getHours();
   const min = new Date().getMinutes();
-  msg.innerHTML = `Agora são ${hour}:${min} horas.`;
+  msg.innerHTML = `Agora são ${hour} horas e ${min} minutos.`;
 
   if (hour >= 0 && hour <= 12) {
     msg.innerHTML += `<br/>Bom dia!`;
