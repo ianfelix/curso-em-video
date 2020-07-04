@@ -1,2 +1,2 @@
 # curso em video
- repositório destinado para os exercícios de JavaScript do curso em vídeo
+ repositório destinado para o exercício de JavaScript do curso em vídeo
